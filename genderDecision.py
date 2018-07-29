@@ -24,4 +24,4 @@ tree.export_graphviz(clf, out_file=dot_data, feature_names=['height','weight'])
 graph = pydotplus.graph_from_dot_data(dot_data.getvalue())
  
 # PDFファイルに出力
-graph.write_pdf("graph.pdf")
+graph.write_pdf("gender.pdf")
