@@ -6,3 +6,6 @@
 $ brew install graphviz
 $ pip install graphviz
 ```
+
+タイタニックのデータはkaggleにある．
+[Titanic](https://www.kaggle.com/c/titanic/data)
